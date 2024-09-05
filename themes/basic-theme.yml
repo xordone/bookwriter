@@ -13,7 +13,7 @@ base:
 #  indent: 5
 prose:
   text-indent: 1.25cm
-  margin-bottom: 0.2cm
+  margin-bottom: 0.75cm
 #  margin-inner: 12
 #  text-indent-inner: 5
 
