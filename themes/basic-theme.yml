@@ -8,8 +8,8 @@ base:
   font_size:          12
   line_height_length: 17
   line_height:        $base_line_height_length / $base_font_size
-section:
-  indent: 5
+#section:
+#  indent: 5
 prose:
   text-indent: 12
 #  margin-bottom: 20
